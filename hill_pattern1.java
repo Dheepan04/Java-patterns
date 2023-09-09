@@ -8,7 +8,7 @@ public class hill_pattern1 {
                 System.out.print("  ");
             }
             for (int j = 1; j <= i; j++) {
-                System.out.print("* ");
+                System.out.print("* ");//less than equals
             }
             for (int j = 1; j < i; j++) {  //note less than
                 System.out.print("* ");
